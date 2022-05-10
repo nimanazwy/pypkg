@@ -1,4 +1,3 @@
 # pypkg
-https://git.strych.cf/pypkg/pypkg &lt; projekt jest przechowywany tutaj
 
 https://git.strych.cf/pypkg/pypkg &lt; projekt jest przechowywany tutaj
